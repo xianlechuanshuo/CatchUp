@@ -1,0 +1,14 @@
+D:\test\2017-10-10_抓包UP率\2017-10-10_抓包UP率\bin\Debug\2017-10-10_抓包UP率.exe.config
+D:\test\2017-10-10_抓包UP率\2017-10-10_抓包UP率\bin\Debug\2017-10-10_抓包UP率.exe
+D:\test\2017-10-10_抓包UP率\2017-10-10_抓包UP率\bin\Debug\2017-10-10_抓包UP率.pdb
+D:\test\2017-10-10_抓包UP率\2017-10-10_抓包UP率\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\test\2017-10-10_抓包UP率\2017-10-10_抓包UP率\bin\Debug\NPOI.dll
+D:\test\2017-10-10_抓包UP率\2017-10-10_抓包UP率\bin\Debug\NPOI.OOXML.dll
+D:\test\2017-10-10_抓包UP率\2017-10-10_抓包UP率\bin\Debug\NPOI.OpenXml4Net.dll
+D:\test\2017-10-10_抓包UP率\2017-10-10_抓包UP率\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\test\2017-10-10_抓包UP率\2017-10-10_抓包UP率\bin\Debug\NPOI.xml
+D:\test\2017-10-10_抓包UP率\2017-10-10_抓包UP率\bin\Debug\NPOI.OOXML.xml
+D:\test\2017-10-10_抓包UP率\2017-10-10_抓包UP率\bin\Debug\NPOI.OpenXml4Net.xml
+D:\test\2017-10-10_抓包UP率\2017-10-10_抓包UP率\obj\Debug\2017-10-10_抓包UP率.exe
+D:\test\2017-10-10_抓包UP率\2017-10-10_抓包UP率\obj\Debug\2017-10-10_抓包UP率.pdb
+D:\test\2017-10-10_抓包UP率\2017-10-10_抓包UP率\obj\Debug\2017-10-10_抓包UP率.csprojResolveAssemblyReference.cache
